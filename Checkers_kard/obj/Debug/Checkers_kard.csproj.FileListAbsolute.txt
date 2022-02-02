@@ -1,0 +1,10 @@
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\bin\Debug\Checkers_kard.exe.config
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\bin\Debug\Checkers_kard.exe
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\bin\Debug\Checkers_kard.pdb
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.csprojAssemblyReference.cache
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.Form1.resources
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.Properties.Resources.resources
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.csproj.GenerateResource.cache
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.csproj.CoreCompileInputs.cache
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.exe
+C:\Users\Kebaru\source\repos\Checkers_kard\Checkers_kard\obj\Debug\Checkers_kard.pdb
